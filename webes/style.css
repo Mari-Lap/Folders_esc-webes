@@ -95,6 +95,9 @@ main .toki-presentacion {
 main .toki-presentacion img {
     width: 40%;
 }
+.compras-cuerpo {
+    margin-bottom: 0%;
+}
 main .prin {
     display: block;
     padding-top: 5em;
@@ -135,6 +138,21 @@ main .content-description {
     -ms-flex-align: center;
     font-family: 'Times New Roman', Times, serif;
     gap: 10rem;
+}
+
+main .compras-front {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main .compras-front img {
+    width: 30rem;
+}
+
+main .compras-front h2 {
+    font-size: 17px;
 }
 
 .pie-pagina {
