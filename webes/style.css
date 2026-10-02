@@ -168,6 +168,14 @@ main .content-description {
     font-size: 0.9rem;
 }
 
+.contacto-redes {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-right: 50px;
+    margin-top: 1.5rem;
+}
 
 @media (max-width: 768px) {
     header .navegador {
